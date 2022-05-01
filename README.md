@@ -1,1 +1,1 @@
-# design-patterns-training
+# design-pattern-training
